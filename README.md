@@ -1,5 +1,9 @@
 # Busybox
 
+[![Build Status](https://img.shields.io/docker/cloud/build/rustic/busybox)](https://hub.docker.com/repository/docker/rustic/busybox)
+[![Image Size](https://img.shields.io/docker/image-size/rustic/busybox/latest)](https://hub.docker.com/repository/docker/rustic/busybox)
+[![License](https://img.shields.io/github/license/rustic/busybox)](https://hub.docker.com/repository/docker/rustic/busybox)
+
 This Docker image allows you to run Busybox commands on a Docker host (or anywhere) that may be missing some utilities. An example use case would be on Fedora CoreOS where you may not want additional packages layered in.
 
 ## Usage
