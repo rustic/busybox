@@ -1,6 +1,6 @@
 # Busybox
 
-This Docker image allows you to run busybox commands on a Docker host (or anywhere) that may be missing some utilities. An example use case would be on Fedora CoreOS where you may not want additional packages layered in.
+This Docker image allows you to run Busybox commands on a Docker host (or anywhere) that may be missing some utilities. An example use case would be on Fedora CoreOS where you may not want additional packages layered in.
 
 ## Usage
 
