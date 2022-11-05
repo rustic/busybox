@@ -1,6 +1,6 @@
 # Busybox
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/rustic/busybox/tree/master.svg?style=sheild)](https://dl.circleci.com/status-badge/redirect/gh/rustic/busybox/tree/master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/rustic/busybox/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/rustic/busybox/tree/master)
 [![Image Size](https://img.shields.io/docker/image-size/rustic/busybox/latest)](https://hub.docker.com/repository/docker/rustic/busybox)
 [![License](https://img.shields.io/github/license/rustic/busybox)](https://hub.docker.com/repository/docker/rustic/busybox)
 
